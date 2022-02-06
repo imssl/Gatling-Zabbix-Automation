@@ -1,4 +1,4 @@
-# Download Zabbix graph after test automatically
+# Download Zabbix graphs after test automatically
 
 Retrieve graphs from Zabbix server (for older versions) after running an API load test with Gatling.
 
